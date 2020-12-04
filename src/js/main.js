@@ -42,7 +42,6 @@ export class Game extends React.Component {
      * @param {String} status - the status text
      */
     reset(player, status) {
-        console.log(player);
         this.board_array = Array(9).fill("");
         this.score_array = Array(8).fill(0);
         this.player = player;
