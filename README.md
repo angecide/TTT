@@ -14,4 +14,4 @@ docker run --rm -it  -p 3000:3000/tcp ttt:latest
 
 [negamax with alpha beta pruning]: <https://en.wikipedia.org/wiki/Negamax#Negamax_with_alpha_beta_pruning>
 [Tic Tac Toe]: <https://en.wikipedia.org/wiki/Tic-tac-toe>
-[Try it here]: <angecide.github.io/TTT>
+[Try it here]: <https://angecide.github.io/TTT/>
