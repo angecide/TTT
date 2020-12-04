@@ -36,10 +36,10 @@ export function Board(props) {
 
 /**
  * creates the on-screen three buttons above the board that resets the game
- * as well as resets the board and sets the player's and AI's side
+ * as well as configuring the player's and AI's side
  * @param {Object} props - Object
- * @param {function} props.setState - setState from main, updates the status text and rerenders
- * @param {functon} props.reset - reset from main, resets all the game's configuration
+ * @param {function} props.setState - setState from main.js, updates the status text and rerenders
+ * @param {functon} props.reset - reset from main.js, resets all the game's configuration
  * @returns {div} - div containing the three actionable buttons
  */
 export function ResetButtons(props) {
